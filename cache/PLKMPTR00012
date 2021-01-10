@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLKMPTR00012</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>elektronika użytkowa </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>9&nbsp;793&nbsp;974</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>25,76</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>83,77 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,31</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>x</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

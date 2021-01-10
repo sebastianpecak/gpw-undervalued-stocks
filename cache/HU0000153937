@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>HU0000153937</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>wydobycie i produkcja </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>819&nbsp;425&nbsp;403</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>25&nbsp;156,36</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>28&nbsp;148,23 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,89</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>523,30</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

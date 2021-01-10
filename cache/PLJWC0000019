@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLJWC0000019</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>sprzedaż nieruchomości </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>88&nbsp;859&nbsp;443</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>279,91</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>703,84 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,40</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>344,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

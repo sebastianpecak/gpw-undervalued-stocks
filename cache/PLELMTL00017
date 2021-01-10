@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLELMTL00017</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Recykling </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>170&nbsp;466&nbsp;065</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>412,53</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>484,53 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,85</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>6,80</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

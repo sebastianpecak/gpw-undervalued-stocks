@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLPSTBX00016</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>tworzywa sztuczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>41&nbsp;941&nbsp;035</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>86,40</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>89,13 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,97</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>6,80</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,40</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

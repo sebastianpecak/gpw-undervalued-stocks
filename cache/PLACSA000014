@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLACSA000014</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>części samochodowe </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>10&nbsp;073&nbsp;683</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>374,74</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>127,17 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>2,95</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>11,70</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,90</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

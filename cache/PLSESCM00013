@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLSESCM00013</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Usługi dla przedsiębiorstw </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>2&nbsp;100&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>63,00</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>43,76 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,44</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>14,40</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

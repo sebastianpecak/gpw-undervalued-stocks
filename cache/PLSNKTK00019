@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLSNKTK00019</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Biotechnologia </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>8&nbsp;529&nbsp;129</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>260,14</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>76,00 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>3,42</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>29,50</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

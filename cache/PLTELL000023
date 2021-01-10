@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLTELL000023</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Handel i usługi - pozostałe </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>7&nbsp;989&nbsp;984</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>145,42</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>144,27 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,01</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>5,80</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>12,10</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

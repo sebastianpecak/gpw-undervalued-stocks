@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLGPW0000017</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>giełdy i biura maklerskie </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>41&nbsp;972&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>1&nbsp;947,50</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>877,59 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>2,22</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>16,80</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>5,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

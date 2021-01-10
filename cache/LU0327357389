@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>LU0327357389</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>żywność </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>84&nbsp;031&nbsp;230</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>4&nbsp;146,94</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>6&nbsp;039,52 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,69</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>4,30</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>3,10</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

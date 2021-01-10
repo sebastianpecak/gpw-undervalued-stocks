@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLMLPGR00017</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>wynajem nieruchomości </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>19&nbsp;720&nbsp;255</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>1&nbsp;617,06</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>1&nbsp;080,34 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,50</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>8,90</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>0,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLSEKO000014</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>żywność </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>6&nbsp;650&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>62,18</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>74,78 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,83</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>10,80</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,80</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

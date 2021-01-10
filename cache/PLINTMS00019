@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLINTMS00019</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>media - pozostałe </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>31&nbsp;424&nbsp;086</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>87,04</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>19,51 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>4,46</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>13,60</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,80</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLIZSTL00015</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>wyroby metalowe </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>32&nbsp;744&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>97,58</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>207,16 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,47</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>6,60</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>3,70</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

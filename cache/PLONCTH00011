@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLONCTH00011</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Biotechnologia </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>13&nbsp;600&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>816,00</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>77,04 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>10,59</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>x</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>---</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

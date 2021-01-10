@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLTRFRM00018</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Dystrybucja leków </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>4&nbsp;387&nbsp;474</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>3&nbsp;009,81</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>763,28 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>3,94</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>20,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

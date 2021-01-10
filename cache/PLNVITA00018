@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLNVITA00018</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>zaopatrzenie przedsiębiorstw - pozostałe </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>2&nbsp;500&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>342,50</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>141,67 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>2,42</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>10,90</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>11,70</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

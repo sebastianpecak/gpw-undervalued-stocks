@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLOPTEM00012</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>oprogramowanie </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>7&nbsp;871&nbsp;500</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>118,86</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>31,66 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>3,75</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>808,70</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>99,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

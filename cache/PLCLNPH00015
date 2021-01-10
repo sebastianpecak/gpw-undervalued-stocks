@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLCLNPH00015</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Produkcja leków </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>45&nbsp;000&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>2&nbsp;056,50</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>443,85 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>4,63</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>78,00</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>0,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

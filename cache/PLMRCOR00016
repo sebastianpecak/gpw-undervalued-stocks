@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLMRCOR00016</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>materiały budowlane </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>15&nbsp;658&nbsp;535</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>209,04</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>151,41 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,38</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>7,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,90</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

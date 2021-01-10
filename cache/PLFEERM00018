@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLFEERM00018</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>urządzenia mechaniczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>9&nbsp;537&nbsp;916</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>102,06</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>138,06 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,74</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>5,90</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,70</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

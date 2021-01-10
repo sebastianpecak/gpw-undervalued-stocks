@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLCFRPT00013</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Telekomunikacja </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>639&nbsp;546&nbsp;016</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>19&nbsp;467,78</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>13&nbsp;996,70 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,39</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>17,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>3,30</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLMNNCP00011</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>hutnictwo metali nieżelaznych </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>51&nbsp;138&nbsp;096</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>1&nbsp;032,99</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>490,66 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>2,11</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>111,70</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>2,50</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

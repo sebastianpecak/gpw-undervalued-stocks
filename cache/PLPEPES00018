@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLPEPES00018</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>napoje </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>95&nbsp;000&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>135,85</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>172,38 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,79</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>18,10</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>8,40</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

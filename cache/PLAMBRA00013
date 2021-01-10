@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLAMBRA00013</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>napoje </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>25&nbsp;206&nbsp;644</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>516,74</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>303,09 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,70</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>14,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>3,40</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

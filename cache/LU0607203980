@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>LU0607203980</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>produkcja rolna i rybołówstwo </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>33&nbsp;178&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>617,11</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>498,79 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,24</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>7,50</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,40</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

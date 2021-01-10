@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLTALEX00017</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>systemy informatyczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>3&nbsp;000&nbsp;092</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>34,80</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>52,23 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,67</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>15,60</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>5,20</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

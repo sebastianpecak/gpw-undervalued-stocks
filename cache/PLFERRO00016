@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLFERRO00016</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>materiały budowlane </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>21&nbsp;242&nbsp;655</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>571,43</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>293,69 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,95</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>10,30</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,50</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLDELKO00019</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>artykuły spożywcze i szybkozbywalne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>5&nbsp;980&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>102,26</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>105,65 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,97</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>5,30</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>2,60</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

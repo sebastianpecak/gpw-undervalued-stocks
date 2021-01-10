@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLINTRL00013</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>urządzenia mechaniczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>25&nbsp;704&nbsp;018</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>131,09</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>137,39 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,95</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>7,00</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>7,50</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

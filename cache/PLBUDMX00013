@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLBUDMX00013</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>budownictwo ogólne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>25&nbsp;530&nbsp;098</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>7&nbsp;799,44</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>948,96 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>8,22</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>22,50</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,50</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

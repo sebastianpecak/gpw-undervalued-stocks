@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLKRKGL00012</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>chemikalia </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>7&nbsp;129&nbsp;259</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>130,11</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>130,68 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,00</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>9,50</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,90</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

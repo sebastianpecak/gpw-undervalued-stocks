@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLAPATR00018</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>urządzenia elektryczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>32&nbsp;806&nbsp;328</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>797,19</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>508,72 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,57</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>14,00</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>1,90</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

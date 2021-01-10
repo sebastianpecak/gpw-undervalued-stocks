@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLCPPRK00037</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>wynajem nieruchomości </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>108&nbsp;333&nbsp;998</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>769,17</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>990,49 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,78</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>5,10</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>29,60</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

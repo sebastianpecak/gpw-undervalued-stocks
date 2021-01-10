@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>EE3100126368</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Równoległy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Usługi dla przedsiębiorstw </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>31&nbsp;610&nbsp;000</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>260,78</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>237,50 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,10</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>11,90</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>12,10</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

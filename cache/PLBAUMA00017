@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLBAUMA00017</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>materiały budowlane </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>5&nbsp;255&nbsp;632</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>258,58</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>342,56 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>0,75</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>8,00</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>5,30</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

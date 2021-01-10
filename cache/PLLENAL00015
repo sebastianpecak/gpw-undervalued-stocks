@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLLENAL00015</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>urządzenia elektryczne </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>24&nbsp;875&nbsp;050</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>101,99</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>92,81 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,10</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>15,20</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>7,30</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

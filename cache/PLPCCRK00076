@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>PLPCCRK00076</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>chemia podstawowa </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>19&nbsp;853&nbsp;300</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>1&nbsp;119,73</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>728,40 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>1,54</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>15,30</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>6,00</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>

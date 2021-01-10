@@ -1,0 +1,47 @@
+	
+
+
+   <html>
+   		<table class="footable table" data-sorting="true">
+		<tbody>
+			<tr>
+				<th class="w180px">ISIN</th>
+				<td>LU1642887738</td>
+			</tr>
+			<tr>
+				<th>Rynek/Segment</th>
+				<td>Podstawowy </td>
+			</tr>
+			<tr>
+				<th>Sektor</th>
+				<td>Telekomunikacja </td>
+			</tr>
+			<tr>
+				<th>Liczba wyemitowanych akcji</th>
+				<td>254&nbsp;625&nbsp;876</td>
+			</tr>
+			<tr>
+				<th>Wartość rynkowa (mln zł)</th>
+				<td>9&nbsp;808,19</td>
+			</tr>
+			<tr>
+				<th>Wartość księgowa (mln zł)</th>
+				<td>626,50 </td>
+			</tr>
+			<tr>
+				<th>C/WK</th>
+				<td>15,66</td>
+			</tr>
+			<tr>
+				<th>C/Z</th>
+				<td>11,10</td>
+			</tr>
+			<tr>
+				<th>Stopa dywidendy (%)</th>
+				<td>4,30</td>
+			</tr>
+		</tbody>
+	</table>
+   	
+   	   	
+   		</html>
