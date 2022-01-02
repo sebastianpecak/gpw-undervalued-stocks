@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import csv
 
 # If debug mode is enabled then we do not fetch data from GPW server.
-IS_DEBUG_MODE = True
+IS_DEBUG_MODE = False
 INDEXES_URL   = "https://www.gpw.pl/ajaxindex.php?start=indicatorsTab&format=html&action=GPWListaSp&gls_isin="
 
 def to_int_or_value(param, value=0):
@@ -128,15 +128,24 @@ def get_all_indexes(companies_list):
 
 def export_sorted_data_to_csv(companies_list, file_name):
     companies_list.sort(key=take_pbv)
+    companies_list = make_all_numbers_strings(companies_list)
     csv_columns = ['name','isin','market','sector','shares_total','market_value_pln','book_value_pln','price_to_book_value', 'price_to_profit', 'annotation']
     try:
         with open(file_name, 'w') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns, delimiter=";")
             writer.writeheader()
             for data in companies_list:
                 writer.writerow(data)
     except IOError:
         print("I/O error")
+
+def make_all_numbers_strings(companies_list):
+    for company in companies_list:
+        company['market_value_pln']    = str(company['market_value_pln']).replace(".", ",")
+        company['book_value_pln']      = str(company['book_value_pln']).replace(".", ",")
+        company['price_to_book_value'] = str(company['price_to_book_value']).replace(".", ",")
+        company['price_to_profit']     = str(company['price_to_profit']).replace(".", ",")
+    return companies_list
 
 # Main program.
 # Get list of all the companies listed on GPW.
